@@ -1,1 +1,1 @@
-# commitlint workshop
+# Commitlint workshop
